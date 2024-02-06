@@ -1,0 +1,164 @@
+@font-face {
+  font-family: 'Raleway';
+  src: url(Raleway/Raleway-VariableFont_wght.ttf);
+}
+.mainbody{
+  background-color: #FCF6F5FF;
+  margin-top: 30%;
+  font-family:'Raleway';
+  color: black;
+}
+.modbody, .aboutus-body,.display-body
+{
+  background-color: #FCF6F5FF;
+  font-family: 'Raleway';
+
+}
+.logo
+{
+  width:10%;
+}
+.img
+{
+  margin-top: -25%;
+  padding-left: 25%;
+  width: 75%;
+}
+.nav-links
+{
+  padding-left: 29%;
+}
+#navlink1
+{
+  color: black;
+  font-family: 'Raleway';
+  margin-right: 20px;
+}
+#navlink2
+{
+  color: black;
+  font-family: 'Raleway';
+  margin-right: 20px;
+
+}
+#navlink3
+{
+  color: black;
+  font-family: 'Raleway';
+  margin-right: 20px;
+
+}
+#navlink4
+{
+  color: black;
+  font-family: 'Raleway';
+  margin-right: 20px;
+}
+
+nav{
+  background-color:#89ABE3FF;
+  width: 100vw;
+}
+.collapse a{
+  font-size: 18px;
+}
+.collapse a:active{
+  transform: scale(0.95);
+}
+#navlink1:hover{
+  color: white;
+}
+#navlink2:hover{
+  color: white;
+}
+#navlink3:hover{
+  color: white;
+}
+#navlink4:hover{
+  color: white;
+}
+.button
+{
+  background-color: #89ABE3FF;
+  color:black;
+}
+.button:hover
+{
+  color: rgb(255, 255, 255);
+}
+.button:active
+{
+  transform: scale(0.95);
+}
+#sectionaddform
+{
+  margin-bottom: 10%;
+}
+.modify-contact
+{
+  width: 70%;
+}
+.img-mod
+{
+  width: 70%;
+  margin-top: 3%;
+  padding-left: 30%;
+}
+.about
+{
+  padding: 1% 5%;
+}
+.about-us
+{
+  color:black;
+  width: 80%;
+  padding: 50px;
+  margin-top: 5%;
+}
+.about-us:hover{
+  transform: scale(0.99);
+}
+.footer
+{
+  color: black;
+  padding: 50px;
+
+}
+.icons
+{
+  color:black;
+  font-size: 35px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.icons:hover{
+  transform: scale(0.9);
+}
+.icons-tech
+{
+  color:black;
+  font-size: 70px;
+  margin-right: 30px;
+  margin-top: 40px;
+}
+.icons-tech:hover{
+  transform: scale(0.9);
+}
+.mem-name
+{
+  padding: 10px;
+  margin-left: 35%;
+}
+.mem-icons
+{
+  margin-left: 15%;
+}
+.team:hover{
+  text-decoration:underline;
+}
+.display-table
+{
+  width: 50%;
+  padding: 5% 10%;
+  height: 30%;
+}
