@@ -19,9 +19,9 @@ The Simple Contact Management System is a lightweight and user-friendly web appl
 - Contacts are stored locally, ensuring data privacy and simplifying deployment.
 - Eliminates the need for an external database connection, making it hassle-free.
 
-**Search Functionality:**
+**Showing All Contacts:**
 
-- A simple yet effective search feature allows users to quickly find contacts by name.
+- The "Show All Contacts" feature is a crucial component of the Contact Management System, allowing users to view a comprehensive list of contacts fetched from the underlying database. Implemented using PHP for server-side logic and database interactions, this feature enhances the usability of the system.
 
 **Responsive Design:**
 
