@@ -31,4 +31,4 @@ The Simple Contact Management System is a lightweight and user-friendly web appl
 - *HTML*: Provides the structure of the web pages.
 - *CSS*: Basic styling for a visually appealing and accessible interface.
 - *PHP*: Manages server-side logic for contact CRUD operations.
-- *Bootstrap*: The use of Bootstrap has been done for the usage of Navbar, Flexbox, Box Model and other components. 
+- *Bootstrap*: The use of Bootstrap has been done for the usage of Navbar, Flexbox, Box Model and other components along with its utilities . 
